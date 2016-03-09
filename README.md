@@ -1,5 +1,5 @@
 # simplechat
-<b>A simple TCP server client chat script<b>
+<b>A simple TCP server client chat script</b>
 
 <b>USAGE</b>
 
